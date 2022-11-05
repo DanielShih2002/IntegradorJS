@@ -1,0 +1,29 @@
+
+.nav-link{
+    font-size: large;
+}
+
+h3{
+    font-size: 40px;
+}
+ .texto1{
+    text-align: right;
+    font-size: 20px;
+    padding-top: 250px;
+} 
+
+footer{
+    background: linear-gradient(59deg,#16222A, #3A6073);
+}
+
+#buttonborder{
+    border:none;
+}
+
+#cardsPrecios{
+    background-color: #fff;
+    padding: 0 8em;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
